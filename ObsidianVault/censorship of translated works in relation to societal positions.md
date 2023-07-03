@@ -1,0 +1,8 @@
+- 16th century, royals, aristocrats, and Church dignitaries could quite happily own translated Bibles which ordinary people would be punished for possessing.
+
+- Victorian Britain
+-translations were at risk of being prosecuted for obscenity whereas foreign-language texts were not. 
+		In 1888, for instance, the publisher Ernest Vizetelly was taken to court for printing English versions of novels by Émile Zola even though the French originals could circulate without restriction. The reason seems to have been that only the uneducated were felt to be at risk from Zola’s immoral influence. Readers who knew French were likely to be good chaps who could be trusted to keep up appearances. Either that, or they were already corrupted beyond repair. //the thing is his novels aren't all that radical
+-Another way of circumventing Victorian censorship was to print your book in an expensive private edition, thus ensuring that only the privileged could read it. This is how Sir Richard Burton had got away with his gloriously salacious translation of the Arabian Nights in 1885.
+
+- 17th-century England John Dryden + other writers used translation as a shield for political views which they would not have been able to express openly. Dryden, as a Catholic, thought that the Crown should have followed the Stuart line of succession, and that the Protestants William and Mary were usurpers. When, in his translation of the Aeneid, he writes that the leadership of Rome was handed down by ‘sure succession’ the contrast would have seemed pointed to the knowing reader. But if Dryden were ever challenged he could lay the blame on Virgil.

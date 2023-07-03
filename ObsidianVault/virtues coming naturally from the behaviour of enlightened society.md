@@ -1,0 +1,1 @@
+exercise of reason + free will, resulting in society shedding superstitions of religion, despotism of govt + property fetishes that accompany marriage + inheritance (all of which tended 2 est selfishness + malevolence)

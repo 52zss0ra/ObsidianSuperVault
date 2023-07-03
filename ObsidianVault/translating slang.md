@@ -1,0 +1,1 @@
+in the chekhov short stories naomi sent, similar lexis as ukranian for the poor peasant. Culturally there's not the understanding of who is using the slang [[cultural contexts mean words can't be translated exactly]] e.g. 'nowt' being used by liverpool dock workers or something but that's not the members of society that use it in the Russian translation

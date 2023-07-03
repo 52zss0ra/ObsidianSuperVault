@@ -1,0 +1,1 @@
+family overcome by his [[appearance]] won't listen and get to know him, so what society values

@@ -1,0 +1,1 @@
+black man in fine clothing hanging off a capital i, presence 

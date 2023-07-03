@@ -1,0 +1,1 @@
+the long-term impact of the hyper-inflation crisis on the health of the German democracy was avoidable

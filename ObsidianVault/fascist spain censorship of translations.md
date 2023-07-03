@@ -1,0 +1,6 @@
+translations went through the same system as everything else, which meant they had to be screened for their attitudes to religious belief, morals, the Church, and the régime.
+
+still great concern on part of censors over translations because of worrying appetite for American culture
+			Arch of Triumph (1948), a character played by Ingrid Bergman has relationships with various men to whom she isn’t married. But not according to the dubbed Spanish dialogue. At one point, she is asked if the man she is with is her husband. Bergman shakes her head—at the same time as her dubbed Spanish voice says, ‘Sí’.
+	In 1966, Franco’s régime introduced what appeared to be a softening of the censorship rules. Publishers no longer had to submit all texts to the censors before publication but only the ones they chose. However, this change of procedure did not in fact improve the situation; on the contrary. If a book turned out to offend the authorities after it had been published, the publishers might be thought to be partners in the crime. So, on the whole, they became very careful not to publish anything displeasing to the régime—perhaps even more careful than the censors themselves would have been.
+																	 // like in my course with editors being self-vigilant forgot if Germany or Italy [[]]

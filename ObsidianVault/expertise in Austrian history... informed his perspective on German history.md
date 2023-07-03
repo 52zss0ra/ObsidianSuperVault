@@ -1,0 +1,1 @@
+own archival research primarily based in Vienna + suppl by french + british archives

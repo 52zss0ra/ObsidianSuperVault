@@ -1,0 +1,11 @@
+region of the world
+language
+nation
+
+However, this idea of literature is only a partial construction, one that is historically and geographically contingent. It began to solidify in Europe during the 18th century when the national circulation of books and especially newspapers helped people to feel that they were inhabiting a shared national culture. If you live in Bordeaux and you know you are reading the same news as someone in Paris then you will feel that you belong to the same ‘imagined community’. In the UK, publishers produced anthologies with titles like Moore’s British Classics or The Works of the English Poets. In Germany, intellectuals elaborated a philosophy of cultural nationhood. For Johann Wilhelm Gottfried Herder, different literatures were the manifestation of different national spirits (Volksgeiste).
+
+This set of assumptions contributes to the idea that literature is untranslatable. If a literary text crucially belongs to one language-and-nation which is separate from the others then translators are inevitably going to fail the requirements of ‘Translation Rigidly Conceived’. They are never going to recreate that text in the medium of another language-and-nation. Those pragmatic kinds of equivalence which—as we have seen—are accepted as translation in many varieties of language-use seem insufficient for literature. What matters in literature—the usual thinking goes—is its intense embeddedness in a particular language and culture. And so the familiar laments rise up: no translation can ever be as good as the original! Poetry is what is lost in translation!
+
+Literature is not as tied to single languages and national traditions as this one way of thinking, rooted in the West and dominant during the 19th and 20th centuries as it seems...
+		multilingual writing examples
+Forms and influences traverse languages. Byron adopted the modes of Italian comic romance. Pushkin learned from Byron in French translations by Amédée Pichot and Eusèbe de Salle. Elizabeth Barrett Browning drew on Aeschylus, Dante, Madame de Staël, and George Sand. Henry James was influenced as much by Flaubert and Turgenev (who came to him thorough French, German, and English translation) as by his Anglophone precursors Nathaniel Hawthorne or George Eliot. Goethe was inspired by the Persian poems of Hafez translated by Joseph von Hammer

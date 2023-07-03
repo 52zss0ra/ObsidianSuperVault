@@ -1,0 +1,1 @@
+1930s, the novelist and translator Elio Vittorini, who was working for the publisher Mondadori, suggested cuts to D. H. Lawrence’s novel St Mawr to suit Fascist tastes. He felt it necessary to engage in censorship himself before the official censors did—this, at a time when his own fiction was also being censored.
