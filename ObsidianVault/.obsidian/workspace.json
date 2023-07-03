@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taylor-ajp-1945.md",
+                "file": "locating literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "taylor-ajp-1945.md",
+                "file": "locating literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "taylor-ajp-1945.md"
+                "file": "locating literature.md"
               }
             }
           }
@@ -196,8 +197,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5bf361eeb23966c",
+  "active": "e37efd357f5c0630",
   "lastOpenFiles": [
+    "always remember to push to git.md",
+    "note taking in obsidian.md",
+    "For Research.md",
+    "zotero.md",
+    "taylor-ajp-1945.md",
     "locating literature.md",
     "reynolds-matthew-2016.md",
     "implications of foreign shine-through in translation.md",
@@ -219,11 +225,6 @@
     "Qur'an in Arabic vs other langs.md",
     "garland-lynda-1994.md",
     "religion keeping people with wool over their eyes.md",
-    "beliefs and doctrine under threat by translations.md",
-    "marx saying religion is the 'opiate of the masses'.md",
-    "mutability of religious teaching (Bible) message according to the target language's culture.md",
-    "misunderstandings or errors in translation highlighting power dynamics.md",
-    "on EU negotiations + interpretation.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",
