@@ -1,2 +1,0 @@
-Lynda Garland, "The Eye of the Beholder": Byzantine Imperial Women and their Public Image From Zoe Porphyrogenita to Euphrosyne Kamaterissa Doukaina 1028-1203, ([Byzantion](https://www.jstor.org/journal/byzantion), Vol. 64, No. 1 (1994), pp. 19-39)
-[[my bibliography]]

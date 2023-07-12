@@ -10,7 +10,7 @@ Matthew Reynolds, 'Translation: A Very Short Introduction', (Oxford University P
 
 ## 2 - Definitions
 [[Translating 'translation']]
-[[meanings unaltered]]
+[[meanings unaltered across langs]]
 [[national meaning of a language]]
 [[all communication translation q]] this is interesting
 

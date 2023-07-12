@@ -11,4 +11,5 @@ propositional meanings that can’t be matched by any single words in other lang
 // [[russian terms in Chekhov specific to the historical setting]]
 // interpreting link to literature [[challenges with translating poetry]] 
 // ch. 5 powerful choices [[translation of gender and sexualities across societies]]
+// [[Translating 'translation']] 
 

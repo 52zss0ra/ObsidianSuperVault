@@ -1,3 +1,3 @@
-//as Mr Barker said on the Marrakech trip, the reason the Qur'an is the word of God is bc Mohammad recited what God told him word for word at the time in the moment fresh in his mind and people learnt it and wrote it down from then.
+//as Mr Barker said on the Marrakech trip, the reason the Qur'an is the word of God is bc Mohammad (couldn't write) recited what God told him word for word at the time in the moment fresh in his mind and people learnt it and wrote it down from then.
 
 Translations are seen as helps towards understanding the sacred text which remains in Arabic. They are typically interlineated with the words Muhammad wrote, or printed in parallel text. In this way of seeing things, translations do not take the place of their source text; they point towards it. They cannot in themselves take on the status of ‘the word of God’; instead, they show how it might be interpreted in other, human words.
