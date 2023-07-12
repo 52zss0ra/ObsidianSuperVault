@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "d5755a08f18f219c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "all communication translation q.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e18119de98adec19",
             "type": "leaf",
             "state": {
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "all communication translation q.md",
+                "file": "locating literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "all communication translation q.md",
+                "file": "locating literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "all communication translation q.md"
+                "file": "locating literature.md"
               }
             }
           }
@@ -196,12 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5755a08f18f219c",
+  "active": "e18119de98adec19",
   "lastOpenFiles": [
-    "locating literature.md",
-    "all communication translation q.md",
-    "to foreignize or not to foreignize.md",
     "ferguson-niall-1997.md",
+    "all communication translation q.md",
+    "locating literature.md",
+    "to foreignize or not to foreignize.md",
     "on EU negotiations + interpretation.md",
     "cultural contexts mean words can't be translated exactly.md",
     "reynolds-matthew-2016.md",
