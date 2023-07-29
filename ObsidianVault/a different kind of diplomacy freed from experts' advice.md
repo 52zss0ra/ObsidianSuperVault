@@ -14,3 +14,7 @@ Defied lurking tensions to promote a powerful image of unity, a unity symbolised
 the Fascist and Nazi regimes, together with their diplomatic staffs, staged [[importance of performance + representation]] them as bellicose floutings of the purportedly rational political culture of liberal internationalism that had supposedly dominated the 1920s
 
 
+
+
+
+[[Nazis departing from established political traditions]]

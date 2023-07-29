@@ -6,9 +6,10 @@
       {
         "id": "15d086c3a2ed66f0",
         "type": "tabs",
+        "dimension": 45.996978851963746,
         "children": [
           {
-            "id": "f5bf361eeb23966c",
+            "id": "e9831c6d5ae2069f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,6 +33,38 @@
             }
           },
           {
+            "id": "05be13f26d5f0b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coursework historians.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f1e2e638312e1c61",
+        "type": "tabs",
+        "dimension": 54.003021148036254,
+        "children": [
+          {
+            "id": "7f946b3479b66b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fulbrook-mary-2015.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e18119de98adec19",
             "type": "leaf",
             "state": {
@@ -43,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locating literature.md",
+                "file": "coursework historians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locating literature.md",
+                "file": "coursework historians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locating literature.md"
+                "file": "coursework historians.md"
               }
             }
           }
@@ -172,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +217,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e18119de98adec19",
+  "active": "05be13f26d5f0b04",
   "lastOpenFiles": [
+    "fulbrook-mary-2015.md",
+    "coursework historians.md",
     "ferguson-niall-1997.md",
-    "all communication translation q.md",
+    "fritzsche-peter-1998.md",
+    "Nazis departing from established political traditions.md",
+    "a different kind of diplomacy freed from experts' advice.md",
+    "goeschel-christian-2018.md",
+    "julia wood.md",
+    "personal st8ment.md",
+    "taylor-ajp-1945.md",
     "locating literature.md",
+    "my bibliography.md",
+    "all communication translation q.md",
     "to foreignize or not to foreignize.md",
     "on EU negotiations + interpretation.md",
     "cultural contexts mean words can't be translated exactly.md",
@@ -202,16 +245,6 @@
     "misunderstandings or errors in translation highlighting power dynamics.md",
     "challenges with translating poetry.md",
     "the visual in translation.md",
-    "purpose of translation of theatrical works.md",
-    "translation of gender and sexualities across societies.md",
-    "russian terms in Chekhov specific to the historical setting.md",
-    "crowd translation.md",
-    "mediation and the avoidance of conflict.md",
-    "language and diplomacy.md",
-    "the asylum seeker in Finland example.md",
-    "a different kind of diplomacy freed from experts' advice.md",
-    "language no man's land.md",
-    "implications of foreign shine-through in translation.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",
