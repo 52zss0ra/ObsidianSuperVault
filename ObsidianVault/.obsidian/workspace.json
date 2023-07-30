@@ -6,7 +6,7 @@
       {
         "id": "15d086c3a2ed66f0",
         "type": "tabs",
-        "dimension": 45.996978851963746,
+        "dimension": 15.105740181268882,
         "children": [
           {
             "id": "e9831c6d5ae2069f",
@@ -50,7 +50,7 @@
       {
         "id": "f1e2e638312e1c61",
         "type": "tabs",
-        "dimension": 54.003021148036254,
+        "dimension": 84.89425981873111,
         "children": [
           {
             "id": "7f946b3479b66b18",
@@ -75,8 +75,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e78fdfd981eb4986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bosworth-richard-1998.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coursework historians.md",
+                "file": "bosworth-richard-1998.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coursework historians.md",
+                "file": "bosworth-richard-1998.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coursework historians.md"
+                "file": "bosworth-richard-1998.md"
               }
             }
           }
@@ -217,17 +230,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05be13f26d5f0b04",
+  "active": "e78fdfd981eb4986",
   "lastOpenFiles": [
-    "fulbrook-mary-2015.md",
+    "on naming his work 'the italian dictatorship'.md",
+    "bosworth-richard-1998.md",
+    "some say the reason for this 'italini brave gente', Bosworth rebuts with crimes and violence of italians shown.md",
+    "less obvious or public victims of italian fascism.md",
+    "the back face of Fascist organizations showing how disorganised it was.md",
+    "a way to overcome distance in ideas is studying historiography.md",
     "coursework historians.md",
+    "personal st8ment.md",
+    "said-edward-1978.md",
+    "fulbrook-mary-2015.md",
     "ferguson-niall-1997.md",
     "fritzsche-peter-1998.md",
     "Nazis departing from established political traditions.md",
     "a different kind of diplomacy freed from experts' advice.md",
     "goeschel-christian-2018.md",
     "julia wood.md",
-    "personal st8ment.md",
     "taylor-ajp-1945.md",
     "locating literature.md",
     "my bibliography.md",
@@ -238,13 +258,6 @@
     "reynolds-matthew-2016.md",
     "Translating 'translation'.md",
     "meanings unaltered across langs.md",
-    "national meaning of a language.md",
-    "translation and censorship.md",
-    "Qur'an in Arabic vs other langs.md",
-    "mutability of religious teaching (Bible) message according to the target language's culture.md",
-    "misunderstandings or errors in translation highlighting power dynamics.md",
-    "challenges with translating poetry.md",
-    "the visual in translation.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",
