@@ -87,9 +87,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d84019cbc947f562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "julia wood.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bosworth-richard-1998.md",
+                "file": "julia wood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bosworth-richard-1998.md",
+                "file": "julia wood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bosworth-richard-1998.md"
+                "file": "julia wood.md"
               }
             }
           }
@@ -230,10 +242,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e78fdfd981eb4986",
+  "active": "d84019cbc947f562",
   "lastOpenFiles": [
-    "on naming his work 'the italian dictatorship'.md",
     "bosworth-richard-1998.md",
+    "on naming his work 'the italian dictatorship'.md",
     "some say the reason for this 'italini brave gente', Bosworth rebuts with crimes and violence of italians shown.md",
     "less obvious or public victims of italian fascism.md",
     "the back face of Fascist organizations showing how disorganised it was.md",

@@ -1,4 +1,4 @@
-R. J. B. Bosworth 'The Italian Dictatorship: Problems and Perspectives in the Interpretations of Mussolini and Fascism' Arnold or Oxford University Press
+]R. J. B. Bosworth 'The Italian Dictatorship: Problems and Perspectives in the Interpretations of Mussolini and Fascism' Arnold or Oxford University Press
 ## the history of attempts to account for Fascism
 
 
