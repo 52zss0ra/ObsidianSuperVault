@@ -89,12 +89,12 @@
             }
           },
           {
-            "id": "d84019cbc947f562",
+            "id": "d550eebdc5e31e68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "julia wood.md",
+                "file": "goeschel-christian-2018.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "julia wood.md",
+                "file": "goeschel-christian-2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "julia wood.md",
+                "file": "goeschel-christian-2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "julia wood.md"
+                "file": "goeschel-christian-2018.md"
               }
             }
           }
@@ -242,9 +242,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d84019cbc947f562",
+  "active": "d550eebdc5e31e68",
   "lastOpenFiles": [
+    "importance of performance + representation.md",
+    "goeschel-christian-2018.md",
+    "a different kind of diplomacy freed from experts' advice.md",
+    "reality check of what post-war IR looked like.md",
     "bosworth-richard-1998.md",
+    "locating literature.md",
+    "julia wood.md",
     "on naming his work 'the italian dictatorship'.md",
     "some say the reason for this 'italini brave gente', Bosworth rebuts with crimes and violence of italians shown.md",
     "less obvious or public victims of italian fascism.md",
@@ -257,19 +263,13 @@
     "ferguson-niall-1997.md",
     "fritzsche-peter-1998.md",
     "Nazis departing from established political traditions.md",
-    "a different kind of diplomacy freed from experts' advice.md",
-    "goeschel-christian-2018.md",
-    "julia wood.md",
     "taylor-ajp-1945.md",
-    "locating literature.md",
     "my bibliography.md",
     "all communication translation q.md",
     "to foreignize or not to foreignize.md",
     "on EU negotiations + interpretation.md",
     "cultural contexts mean words can't be translated exactly.md",
     "reynolds-matthew-2016.md",
-    "Translating 'translation'.md",
-    "meanings unaltered across langs.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",

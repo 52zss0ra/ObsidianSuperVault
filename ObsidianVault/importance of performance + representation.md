@@ -11,3 +11,6 @@ succeeded in obscuring tensions (not coincidence that Pact of Steel only signed 
 
 GOESCHEL USES JEFFREY C. ALEXANDER'S concept of 'social performance' to say that
 ## the effect of these signs was that "many contemporaries in Italy and Germany but also abroad, regarded this relationship as a menacing one as they believed it was held together by common ideology."
+
+
+to stage those crowds, some element of bribery was needed: giving people a day off to particip8
