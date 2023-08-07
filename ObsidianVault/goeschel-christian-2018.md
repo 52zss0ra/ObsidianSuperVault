@@ -33,8 +33,14 @@ Christian Goeschel, Mussolini and Hitler: The Forging of the Fascist Alliance (Y
 
 5... Analysis of the tension between the propagandistic depictions of consensus for the Italo-German alliance and the more complex reality of prevailing and strengthening national stereotypes
 
-## Chapter 1 - The first meeting
-at first Hitler's pretty fringe so Musso only clandestinely communicates with him. needs to keep in Weimar Govt's good graces. examples of this include not organising a state visit (st8 not inviting him, but musso yes) and keeps cancelling. Also all the admiring letters H sends to musso
+## Chapter 1 - In Mussolini's Shadow
+at first Hitler's pretty fringe so Musso only clandestinely communicates with him. needs to keep in Weimar Govt's good graces. examples of this include not organising a state visit (*__guest of the fascist party yes__*) and keeps cancelling. Also all the admiring letters H sends to musso
 
+To gain legitimacy, Hitler draws on the Fascist name. Just shows which is more prevalent really. he also sacrifices south tyrol (polemic, would lose him supporters on the right) to keep good relation w Italy
+	'it was not Fascist ideology as such but the Fascist method of seizing and consolidating power that attracted Hitler.'
 
-[[power dynamics]]
+Also how Hitler fell for propaganda bc Musso's reign was far from totalitarian, but yeah march on rome served as foundational myth for beer hall putsch
+
+[[power dynamics]] after sept 1930 reichstag elections (nazi success) increased from 12 to 107 seats, now 2nd biggest party, musso began to increase support 4 them
+
+what their relationship meant 4 politics: h, against some nazi ops, stressed *legality*, which Renzetti (italian advisor) suggested as a means of taking power as italians had done: don't join conservative coalition as junior partner

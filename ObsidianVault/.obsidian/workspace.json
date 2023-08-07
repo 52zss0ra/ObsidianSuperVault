@@ -45,12 +45,12 @@
             }
           },
           {
-            "id": "81b0964e1b6b9613",
+            "id": "5ad71fb6ca11a62e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arnold-john-2000.md",
+                "file": "goeschel-christian-2018.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arnold-john-2000.md",
+                "file": "goeschel-christian-2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arnold-john-2000.md",
+                "file": "goeschel-christian-2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arnold-john-2000.md"
+                "file": "goeschel-christian-2018.md"
               }
             }
           }
@@ -230,20 +230,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81b0964e1b6b9613",
+  "active": "5ad71fb6ca11a62e",
   "lastOpenFiles": [
-    "personal st8ment.md",
     "coursework historians.md",
     "arnold-john-2000.md",
+    "bosworth-richard-1998.md",
+    "taylor-ajp-1945.md",
+    "personal st8ment.md",
     "literary origins of history writing.md",
     "motives for recording history.md",
     "who history is for.md",
     "history, story.md",
     "history vs the past... the difference is questions... discussion.md",
-    "taylor-ajp-1945.md",
     "fulbrook-mary-2015.md",
     "locating literature.md",
-    "bosworth-richard-1998.md",
     "goeschel-christian-2018.md",
     "importance of performance + representation.md",
     "a different kind of diplomacy freed from experts' advice.md",

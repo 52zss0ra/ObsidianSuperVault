@@ -36,9 +36,9 @@ he believes the key is (externally) seeing how Germany fits into Europe, defensi
 __The Saverne/Zabern Affair__ 
 		// *A German political crisis sparked by unrest in the Alsatian garrison town of Saverne (Zabern). It was caused when, more than four decades after Alsace's occupation by the Germans, a German army officer openly insulted the local population. This led to popular unrest, which was quelled with brutal means. These infringements led to a debate in the German Reichstag about the militaristic structures of German society, as well as the position of the leadership of the Empire in relationship to the Kaiser. On 4 December the German parliament accepted a vote of no confidence in the Chancellor by a huge majority. This unprecedented move remained without effect as, in the German Empire, the Chancellor was appointed by the Emperor and needed his support only.*
 on the saverne affair, Taylor doesn't agree with the view that Germany was otw to constitutionalism if it weren't for xyz (Bismarck being so clever, kaiser wilhelm II being so wild, the outbreak of ww1 calling the Germans to war, which all interrupted this process)
-	rather, he thinks that "the Germans were perfectly aware of their political condition and perfectly incapable of remedying it"
+	rather, he thinks that "the Germans were perfectly aware of their political condition and perfectly incapable of remedying it" *(p 190)*
 
 
 __July 1914 Diplomatic Crisis__ - where the issue of expansionism into the east arose again. 
 *Will Germany abandon the eastern territories, leaving them to the Slavs and being content with their empire ending @ vienna, or carry German power eastwards?* At the falling apart of Habsburg monarchy, Germans didn't want to renounce that influence 
-- junkers (wanting to preserve conservative static policy), capitalists (wanting to 'master Europe by economic penetration') AND the German people (wanting to protect the Fatherland from tsardom) embraced war as a means
+- junkers (wanting to preserve conservative static policy), capitalists (wanting to 'master Europe by economic penetration') AND the German people (wanting to protect the Fatherland from tsardom) embraced war as a means *(p191-194)*
