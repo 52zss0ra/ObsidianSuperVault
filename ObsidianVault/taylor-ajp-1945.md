@@ -29,7 +29,7 @@ the weirdo thing about G's development in comparison to the west is how behind t
 he believes the key is (externally) seeing how Germany fits into Europe, defensive towards west + offensive towards east. (a German of political consequence has never been accepting of Slavs, not seen as equal)
 	also, doesn't want to deal with those 'good' Germans of no political consequence who just let it happen. *p xix*
 
-## Crisis of Hohenzollern Germany
+## Crisis of Hohenzollern Germany 1906-1916
 	// Hohenzollern dynasty - prominent in European history, chiefly as the ruling house of Brandenburg-Prussia (1415–1918) and of imperial Germany (1871–1918)
 
 
@@ -42,3 +42,39 @@ on the saverne affair, Taylor doesn't agree with the view that Germany was otw t
 __July 1914 Diplomatic Crisis__ - where the issue of expansionism into the east arose again. 
 *Will Germany abandon the eastern territories, leaving them to the Slavs and being content with their empire ending @ vienna, or carry German power eastwards?* At the falling apart of Habsburg monarchy, Germans didn't want to renounce that influence 
 - junkers (wanting to preserve conservative static policy), capitalists (wanting to 'master Europe by economic penetration') AND the German people (wanting to protect the Fatherland from tsardom) embraced war as a means *(p191-194)*
+
+## The Rule of the German Army, 1916-19
+German policy failure = army unrestricted rule (not under emperor or chancellor)
+	Reichstag parties backed Ludendorff, unconstitutional, calls the dictatorship consensual
+TAYLOR VIEWS THIS AS A LOGICAL DEVELOPMENT FROM the 'jettisoning of liberal principles during the struggles of the 19th century' *(p200)*
+
+??????????????// why would German supremacy in Austria-Hungary threaten junker power? bcos including it in greater germany would have threatened the position of junkers due to austria's strength?
+
+the foreign policy adopted by Ludendorff, all war basically was actually the people's desire not the imposition of a 'governing class' as they thought they were engaged in a defensive war *(p202-203)*
+
+Bucharest + Brest-Litovsk super greedy treaties on the German side dreams and ambitions about cultural supremacy, resources *(bottom of p208-209)*
+
+*** constitutional monarchy happened 'without the effort, almost without the knowledge of the German People'. social dems + libs tried to protect the Kaiser's position but in the end bc of the allies' refusal to deal with him (democratic 14 points ideals, symbolic) gone *(p210)*
+
+actually then a lot of Germans turned to famously anti-war parties e.g. Spartacists, Independent Social Democrats (Taylor claims they didn't know what they were about though) bc of drawn out war that had turned out to be massively unsuccessful *(p210)*
+
+high command + soc dems against their will, created the German Republic bc of pressure from Allies + Berlin streets *(top of p212)*
+
+ON BUILDING 'REPUBLICAN' GOVT - Council of People's Representatives (strove w/o revolutionary purpose to keep order in Germany), chose socialist leaders who were anti-revolution + primarily the ministers were from centre + progressive parties,,, --> so replacement for previous govt was full of those who had supported the war, opposing 'real' change like bolshevism 
+	'that the boss should recover and that meanwhile the machinery should not jam or any competitor steal the business, such was their aim' 
+so didn't make waves by inquiring into the great profits made by the armament industry or taking down great estate Elbe, just maintaining status quo + supporting Hindenburg BECAUSE GERMAN 1st socialist 2nd. the universal suffrage, 8 hour work day + unemployment relief taylor believes not revolutionary (as it might have been in 1848) but just serves the MC 
+- then prov gov literally just fight against spartacists // showing how it really is a veneer of change like G's structure isn't being revolutionised... unfinished*(p212-214)*
+
+hopelessness of the weimar govt highlighted on *p216* ... what hope was there for this republic... it 'helped the old order back to power and bore the burden of its disaster' *(p219)* 
+	literally just unabashedly helping out the Prussian old elites Osthilfe
+
+ToV so disastrous in uniting the 2 types of nationalism: conservative + demagogic, sealing WR's f8 as they were scapegoated for having accepted the terms of the treaty *(p219-222)* (remained while the army was too weak to override)
+
+????????? 'thus the social democratic resistance to the treaty of versailles inevitably committed them to making Germany once more 'the stronger' and so doomed the WR even b4 it was born' p220-221
+
+
+## Republican Interregnum, 1919-30
+[[Weimar R's reliance on est elites shown in Kapp Putsch]] *p227*
+
+[[despite changes of constitution + of parties, the spirit of politics was still that of old Germany's]]
+*p230*
