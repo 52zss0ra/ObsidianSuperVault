@@ -44,3 +44,14 @@ Also how Hitler fell for propaganda bc Musso's reign was far from totalitarian, 
 [[power dynamics]] after sept 1930 reichstag elections (nazi success) increased from 12 to 107 seats, now 2nd biggest party, musso began to increase support 4 them
 
 what their relationship meant 4 politics: h, against some nazi ops, stressed *legality*, which Renzetti (italian advisor) suggested as a means of taking power as italians had done: don't join conservative coalition as junior partner
+
+
+## Chapter 2 - First Date
+
+
+## Conclusion
+good italian as opposed to evil german much less genocidal [[less obvious or public victims of italian fascism]] [[some say the reason for this 'italini brave gente', Bosworth rebuts with crimes and violence of italians shown]] ideas pushed post-war to distance italy from the axis
+
+[[musso + h's relationship wasnt pure propaganda though]]
+[[display of friendship succeeded in obscuring the rivalry, tensions]]
+[[relationship was overshadowed by their pretensions to world domination and by petty personal jealousies]]

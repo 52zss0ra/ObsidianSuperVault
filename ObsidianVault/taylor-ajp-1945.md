@@ -71,7 +71,10 @@ hopelessness of the weimar govt highlighted on *p216* ... what hope was there fo
 ToV so disastrous in uniting the 2 types of nationalism: conservative + demagogic, sealing WR's f8 as they were scapegoated for having accepted the terms of the treaty *(p219-222)* (remained while the army was too weak to override)
 
 ????????? 'thus the social democratic resistance to the treaty of versailles inevitably committed them to making Germany once more 'the stronger' and so doomed the WR even b4 it was born' p220-221
-
+By rejecting ToV SPD is taking that make G great again viewpoint. Cant coexist with democratic Germany
+		//skeaps said doing otherwise would have been political suicide. like everyone would hate them for accepting it. could have maybe renegotiated. What their agenda is talking about hostility to ToV while accepting it + making reforms that benefit workers to mitigate anger towards it. SPD chancellor 1928 in coa govt where not committing to reverse ToV; sign Young Plan even. implicitly accept the war guilt + reparations
+		james + bessel make the long-term arg better than Taylor, flaws in structural Weimar
+		bc Taylor makes case of junker, social elite, then massive jump to national character generalisations
 
 ## Republican Interregnum, 1919-30
 [[Weimar R's reliance on est elites shown in Kapp Putsch]] *p227*

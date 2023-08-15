@@ -1,0 +1,1 @@
+"spite and small-mindedness was equally a characteristic of their ambitions, ambitions that led to war, destruction, death and violence on a scale never hitherto seen."
