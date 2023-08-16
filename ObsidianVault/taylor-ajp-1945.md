@@ -78,6 +78,29 @@ By rejecting ToV SPD is taking that make G great again viewpoint. Cant coexist w
 
 ## Republican Interregnum, 1919-30
 [[Weimar R's reliance on est elites shown in Kapp Putsch]] *p227*
+--> this meant that they had to have a [[willingness to protect old elites]]
 
 [[despite changes of constitution + of parties, the spirit of politics was still that of old Germany's]]
-*p230*
+*p230* [[residue of imperial life]] 
+
+[[hyperinflation dooming germany because MC wiped out]] *(232)*
+
+[[hindenburg as president too... these arent people committed to democracy]] *(p239)*
+
+the collapse of the republic was accelerated, not caused by the 1929 econ crisis
+
+few supporters and no roots to survive the storm bc of lack of faith bc of g ideals in the past
+
+## Demagogic Dictatorship and the Completion of German Unity after 1930
+sees the golden years as the G people leaving quest for revenge for the treaty 4 now because fair weather and new posts and jobs + prosperity then depression brought them back to their values that they'd left on the back burner
+
+[[skilled workers being alienated by the depression, when they were the republic's greatest supporters]]
+	// really?
+
+[[in 1930 German democracy was too far gone to be saved by any change in policy]] *(p244)*
+	// now i know that's not true, late 1932 the votes for extremist parties were diminishing as the public works schemes took effect
+
+[[Nazis preyed on the 'national' card]] *(p246)*
+
+{}left off on 248
+

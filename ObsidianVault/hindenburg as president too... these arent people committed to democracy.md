@@ -1,0 +1,1 @@
+how does it look to have a militaristic and imperial-thinking man as president

@@ -1,0 +1,1 @@
+G MC would be the investors, safe, stable... hyperinflation completely decimated that for germany
