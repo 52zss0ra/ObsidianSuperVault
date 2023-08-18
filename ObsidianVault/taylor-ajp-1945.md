@@ -102,5 +102,15 @@ sees the golden years as the G people leaving quest for revenge for the treaty 4
 
 [[Nazis preyed on the 'national' card]] *(p246)*
 
-{}left off on 248
+[[bruning trying to appeal to nationalist sentiment just helped to strengthen the nazis]] *(p247)*
+
+[[1932 election of new president revealed death of peaceful germany]] *(248-249)*
+
+'there was nothing mysterious in Hitler's victory; the mystery is rather that it had been so long delayed' *(p251)*
+
+[['the 'Third Reich' relied solely on German force and German impulse; it owed nothing to alien forces']] *(p253)*
+
+
+
+
 

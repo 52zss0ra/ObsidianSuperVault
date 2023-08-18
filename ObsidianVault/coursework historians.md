@@ -18,7 +18,7 @@
 
 2. short-term economic: evans - Great Depression was what allowed the fostering nationalist sentiment to take hold --> Nazis
 		(ii) turner - blames the est elites + politicians for allowing hitler in, more pol _30 days to power_
-		(iii) kershaw -???????
+		
 
 3. peukert
 		(i) weitz
