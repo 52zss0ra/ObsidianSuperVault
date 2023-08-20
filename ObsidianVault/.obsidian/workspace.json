@@ -14,12 +14,24 @@
             "dimension": 26.949541284403672,
             "children": [
               {
-                "id": "e9831c6d5ae2069f",
+                "id": "5ad71fb6ca11a62e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "despite changes of constitution + of parties, the spirit of politics was still that of old Germany's.md",
+                    "file": "goeschel-christian-2018.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "037cb1c1b0aeab77",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "bosworth-richard-1998.md",
                     "mode": "source",
                     "source": false
                   }
@@ -33,48 +45,24 @@
             "dimension": 73.05045871559633,
             "children": [
               {
-                "id": "4719e69876e39493",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "taylor-ajp-1945.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a118c4550dd8c7bc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ferguson-niall-1997.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "05be13f26d5f0b04",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "coursework historians.md",
+                    "file": "the econ problems Germany struggled w were caused by outside forces.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "5ad71fb6ca11a62e",
+                "id": "65657657089f5dee",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "goeschel-christian-2018.md",
+                    "file": "weimar had economic problems engrained which were what led to democratic crisis.md",
                     "mode": "source",
                     "source": false
                   }
@@ -90,18 +78,6 @@
         "type": "tabs",
         "dimension": 30.815709969788518,
         "children": [
-          {
-            "id": "7f946b3479b66b18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fulbrook-mary-2015.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "e18119de98adec19",
             "type": "leaf",
@@ -194,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taylor-ajp-1945.md",
+                "file": "the econ problems Germany struggled w were caused by outside forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "taylor-ajp-1945.md",
+                "file": "the econ problems Germany struggled w were caused by outside forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "taylor-ajp-1945.md"
+                "file": "the econ problems Germany struggled w were caused by outside forces.md"
               }
             }
           }
@@ -256,34 +232,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4719e69876e39493",
+  "active": "05be13f26d5f0b04",
   "lastOpenFiles": [
-    "'the 'Third Reich' relied solely on German force and German impulse; it owed nothing to alien forces'.md",
+    "james-harold-1990.md",
+    "holtferich-carl-ludwig-1990 on  james-harold-1990.md",
+    "weimar had economic problems engrained which were what led to democratic crisis.md",
+    "the econ problems Germany struggled w were caused by outside forces.md",
+    "germany is not your typical flimsy fair weather system, it has been quite resilient actually.md",
+    "coursework historians.md",
+    "goeschel-christian-2018.md",
+    "bosworth-richard-1998.md",
+    "ferguson-niall-1997.md",
     "taylor-ajp-1945.md",
+    "'the 'Third Reich' relied solely on German force and German impulse; it owed nothing to alien forces'.md",
     "1932 election of new president revealed death of peaceful germany.md",
     "bruning trying to appeal to nationalist sentiment just helped to strengthen the nazis.md",
-    "coursework historians.md",
     "Nazis preyed on the 'national' card.md",
     "hindenburg as president too... these arent people committed to democracy.md",
     "hyperinflation dooming germany because MC wiped out.md",
     "willingness to protect old elites.md",
     "residue of imperial life.md",
-    "goeschel-christian-2018.md",
     "relationship was overshadowed by their pretensions to world domination and by petty personal jealousies.md",
-    "ferguson-niall-1997.md",
     "display of friendship succeeded in obscuring the rivalry, tensions.md",
     "musso + h's relationship wasnt pure propaganda though.md",
     "despite changes of constitution + of parties, the spirit of politics was still that of old Germany's.md",
     "Weimar R's reliance on est elites shown in Kapp Putsch.md",
     "the finnish example.md",
     "arnold-john-2000.md",
-    "bosworth-richard-1998.md",
     "personal st8ment.md",
-    "literary origins of history writing.md",
-    "motives for recording history.md",
-    "who history is for.md",
-    "history, story.md",
-    "history vs the past... the difference is questions... discussion.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",
