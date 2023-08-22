@@ -1,0 +1,2 @@
+- bc of labour productivity rise also wages higher than they needed to be
+- evidenced in the investment activity
