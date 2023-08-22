@@ -9,7 +9,7 @@
 		(iii) [[holtfrerich-carl-ludwig-1990]] - disagrees with the determinists !!!
 		(iv) [[fritzsche-peter-1998]] - nationalist ideas from the start
 		(v) [[fulbrook-mary-2015]] - highlights long-term problems
-		(vi) stephenson critiques _sonderweg_ hard
+		(vi) [[stephenson-jill-1997]] - critiques _sonderweg_ hard
 
 !!! james and holfrich each other (potentially chosen works) then responses to each other then bessel on their debate 
 

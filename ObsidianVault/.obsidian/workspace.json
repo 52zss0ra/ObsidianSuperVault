@@ -58,30 +58,31 @@
                 }
               },
               {
-                "id": "be94d12dced3a4b1",
+                "id": "709f70c8507a99f6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "james-harold-1990 comments on holtfrerich's paper.md",
+                    "file": "holtfrerich-carl-ludwig-1990.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "709f70c8507a99f6",
+                "id": "f6ce0bbdf717adfc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "holt's ops on what to have been done that would have improved W economy.md",
+                    "file": "stephenson-jill-1997.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -183,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "james-harold-1990.md",
+                "file": "stephenson-jill-1997.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "james-harold-1990.md",
+                "file": "stephenson-jill-1997.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "james-harold-1990.md"
+                "file": "stephenson-jill-1997.md"
               }
             }
           }
@@ -245,19 +246,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b243e2074f6109a2",
+  "active": "f6ce0bbdf717adfc",
   "lastOpenFiles": [
-    "holt's ops on what to have been done that would have improved W economy.md",
+    "NatSoc thrived not solely because of old aspects but bc fused with modern qualities of 20th c.md",
+    "stephenson-jill-1997.md",
+    "coursework historians.md",
     "holtfrerich-carl-ludwig-1990.md",
+    "holt's ops on what to have been done that would have improved W economy.md",
+    "james-harold-1990.md",
+    "james-harold-1990 comments on holtfrerich's paper.md",
     "bruning had room for maneuvre, not handling the economic situation correctly is what led to nazis' rise to power (bye bye Weimar Republic).md",
     "contrary to borchardt and james he views the inter war period as not bad economically.md",
-    "james-harold-1990 comments on holtfrerich's paper.md",
-    "james-harold-1990.md",
     "bessel-richard-1990 on 3 papers.md",
     "holtfrerich-carl-ludwig-1990 on  james-harold-1990.md",
     "bessel on james.md",
     "bessel on holfrerich.md",
-    "coursework historians.md",
     "Lower savings + investment r8s than b4 the war.md",
     "Low savings r8s.md",
     "post-war shift in the st8's political and economic role, along with attitudes, didn't set it up well.md",
@@ -271,8 +274,6 @@
     "note taking in obsidian.md",
     "goeschel-christian-2018.md",
     "ferguson-niall-1997.md",
-    "taylor-ajp-1945.md",
-    "'the 'Third Reich' relied solely on German force and German impulse; it owed nothing to alien forces'.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",
