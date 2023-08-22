@@ -6,7 +6,7 @@
 		(i) bessel - politics + room for maneuvre, Borchardt thesis !!!
 		(ii) [[james-harold-1990]] - economic view, makes democracy unviable !!!
 		(iii) [[ferguson-niall-1997]] - G policy makers blamed for not having improved the economic conditions caused by war of the 20s + later 30s, making eventual downfall inevitable
-		(iii) holfrich - disagrees with the determinists !!!
+		(iii) [[holtfrerich-carl-ludwig-1990]] - disagrees with the determinists !!!
 		(iv) [[fritzsche-peter-1998]] - nationalist ideas from the start
 		(v) [[fulbrook-mary-2015]] - highlights long-term problems
 		(vi) stephenson critiques _sonderweg_ hard

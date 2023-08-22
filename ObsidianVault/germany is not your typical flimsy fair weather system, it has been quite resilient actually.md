@@ -1,3 +1,5 @@
+*(p156)*
+
 distinguishes Germany from other 'fair weather' democratic systems that typically collapse in the face of economic problems due to it resilience (hyper-inflation, war guilt clause, early 20s political unrest, Ruhr occupation, Young Plan agitation, the greater part of the depression)
 
 so it didn't take a 'relatively small push to bring down the whole structure'

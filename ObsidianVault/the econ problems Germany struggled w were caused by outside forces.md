@@ -1,3 +1,5 @@
+*(p156-157)*
+
 + reparations // ToV, loss of terrioties + colonies
 + // Ruhr invasion, halting production one of most lucrative areas by France (+ Belgium?)
 + hostile foreign trade
