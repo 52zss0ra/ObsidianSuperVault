@@ -58,31 +58,19 @@
                 }
               },
               {
-                "id": "709f70c8507a99f6",
+                "id": "76d89da7bcfc8978",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "holtfrerich-carl-ludwig-1990.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f6ce0bbdf717adfc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "stephenson-jill-1997.md",
+                    "file": "ch 14 - The Erosion of options.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -184,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stephenson-jill-1997.md",
+                "file": "ch 14 - The Erosion of options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stephenson-jill-1997.md",
+                "file": "ch 14 - The Erosion of options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stephenson-jill-1997.md"
+                "file": "ch 14 - The Erosion of options.md"
               }
             }
           }
@@ -246,16 +234,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6ce0bbdf717adfc",
+  "active": "76d89da7bcfc8978",
   "lastOpenFiles": [
-    "the destruction of democracy (p313-314) Bruning's, Von Papen's, von schleicher's roles.md",
+    "bosworth-richard-1998.md",
+    "ch 14 - The Erosion of options.md",
+    "coursework historians.md",
+    "peukert-detlev-1987.md",
+    "ch 1 - The Weimar Republic + the continuity of German hist.md",
+    "(lack of political legitimacy from the start) and (the economic problems) were instrumental in Weimar's Collapse.md",
+    "just a list of the econ1social problems in WR peukert illustrates.md",
     "stephenson-jill-1997.md",
+    "the destruction of democracy (p313-314) Bruning's, Von Papen's, von schleicher's roles.md",
     "lots of societal cleavages and an NSDAP that pays attention to milieu....md",
     "NSDAP structure and methods.md",
     "role of depression.md",
     "incompetence of other parties.md",
     "NatSoc thrived not solely because of old aspects but bc fused with modern qualities of 20th c.md",
-    "coursework historians.md",
     "holtfrerich-carl-ludwig-1990.md",
     "holt's ops on what to have been done that would have improved W economy.md",
     "james-harold-1990.md",
@@ -268,12 +262,6 @@
     "bessel on holfrerich.md",
     "Lower savings + investment r8s than b4 the war.md",
     "Low savings r8s.md",
-    "post-war shift in the st8's political and economic role, along with attitudes, didn't set it up well.md",
-    "weimar had economic problems engrained which were what led to democratic crisis.md",
-    "the econ problems Germany struggled w were caused by outside forces.md",
-    "james underrates the positive results of 'rationalisation'.md",
-    "james exaggerates the how bad the economic situation between hyperinflation and depression was.md",
-    "germany is not your typical flimsy fair weather system, it has been quite resilient actually.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",
