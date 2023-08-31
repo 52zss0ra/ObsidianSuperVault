@@ -9,3 +9,5 @@ The Weimar Republic: The Crisis of Classical Modernity
 #### ch 11-12 in DECEPTIVE STABILITY, 1924-29 // which you'd want to look at to inform your ops on the 3 in kershaw's who give conflicting views on this period
 
 ## [[ch 14 - The Erosion of options]] 
+
+### the review would probably be good to round off on too

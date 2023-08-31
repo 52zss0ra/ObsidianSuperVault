@@ -1,0 +1,1 @@
+badly weakened + destabilised the WR

@@ -6,12 +6,13 @@
 		(ii) evans
 
 2. [[james-harold-1990]]
-		(i) bessel
+		(i) [[bessel-richard-1990]] 
 
 3. [[holtfrerich-carl-ludwig-1990]]
 		(i) [[peukert-detlev-1987]]
 
-
+ferguson will do
+re-read of the debate will do
 
 
 

@@ -1,0 +1,11 @@
+- between fall of G coalition march 1930 + the confrontation between the new govt + parl in the same year, the demise of paliamentary politics happened
+	- bruning using emergency decrees + neglecting social democracy. dissolving the reichstag + attacking the fundamentals of the constitution... wanted to strengthen presidential authority
+	- "parliament was perfectly capable of effective action and could have continued to provide a clear majority in favour of democracy until 1932. It was deliberately sidelined so that presidential rule could be imposed" *(p259)* 
+	- neither Bruning (Bismarckian) nor von papen (looking for a new corpor8 st8 italian-style run by old elites) wanted to preserve the status quo, let alone return to the old Weimar system
+	- "The crisis did not so much force the government to act as provide the occasion for the introduction of reactionary policies which it wanted to implement in any case"
+		- bruning wanted a cessation of reps payments, for which he was prepared to endure increasing poverty in G
+		- THE ARMY also aligned with these aims bc didn't want to be ltd, but clashed w Bruning on having it be the foremost priority. Generally though, agreed on transforming the state on authoritarian lines
+		- old elites really backed Hindenburg + Chancellors' efforts to become more authoritarian bc of consensus about bye ToV
+	- the presidential cabinets used the crisis to further their political aims, and were prepared to let the effects of the crisis become more acute if they thought it would help
+- **"the policy of authoritarianism took priority not only over dealing with the economic crisis, but also over responding to the rising threat of National Socialism"** (saw their growth as an acceptable price to pay to achieve their aim of bypassing parliament... hoped to 'tame' them) *(p261)*
+	- trying to 'tame' Hitler wasn't an anti-fascist move, the elites wanted to ensure their hegemony over the 'new state' not defend the republic against NatSoc

@@ -1,0 +1,4 @@
+// this adds to [[stephenson-jill-1997]]'s conclusion on where we're left on the sonderweg vs spanner deb8
+
+- "if the bruning and papen regimes had been successful, there might perhaps be some justification for enlisting their traditionalism as evidence in favour of the hypothesis of 'Sonderweg'. **But their very failure shows that their dynamic thrust of the process of modernisation could no longer be held in check.**"
+			// features I see as (almost!) exclusively modern: ToV, H being part of the ww1 generation, chronic crises of the 1920s (esp considering how [[the economic effects of ww1 prevented support for the republic among myths]])
