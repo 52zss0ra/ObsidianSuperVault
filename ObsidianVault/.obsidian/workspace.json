@@ -8,14 +8,14 @@
         "type": "split",
         "children": [
           {
-            "id": "47b7c01da05bce17",
+            "id": "a2175511924924fc",
             "type": "split",
             "dimension": 77.06422018348624,
             "children": [
               {
                 "id": "0067c065ce972d27",
                 "type": "tabs",
-                "dimension": 23.036253776435046,
+                "dimension": 30.664652567975832,
                 "children": [
                   {
                     "id": "5ad71fb6ca11a62e",
@@ -57,12 +57,12 @@
                 "currentTab": 2
               },
               {
-                "id": "773f6aee2a1fef6f",
+                "id": "dbe6b3df53c4aa03",
                 "type": "tabs",
-                "dimension": 76.96374622356495,
+                "dimension": 69.33534743202418,
                 "children": [
                   {
-                    "id": "b243e2074f6109a2",
+                    "id": "3206a39e3378a5ba",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -74,31 +74,19 @@
                     }
                   },
                   {
-                    "id": "20c7ab621caa8c26",
+                    "id": "3b62ab50bbff4a8e",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "bessel-richard-1990.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "c60880428e76bd49",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "ch 14 - The Erosion of options.md",
+                        "file": "a turbulent economy and an anxious society.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -203,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coursework historians.md",
+                "file": "locating literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coursework historians.md",
+                "file": "locating literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coursework historians.md"
+                "file": "locating literature.md"
               }
             }
           }
@@ -265,34 +253,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c03cf0eb488b5464",
+  "active": "e18119de98adec19",
   "lastOpenFiles": [
-    "holtfrerich-carl-ludwig-1990.md",
+    "a turbulent economy and an anxious society.md",
+    "james-harold-1990.md",
     "coursework historians.md",
+    "weitz-eric-2007.md",
+    "locating literature.md",
+    "holtfrerich-carl-ludwig-1990.md",
+    "contrary to borchardt and james he views the inter war period as not bad economically.md",
     "ch 14 - The Erosion of options.md",
+    "peukert-detlev-1987.md",
+    "ferguson-niall-1997.md",
+    "policy makers' poor handling of econ crisis to blame for the failure of democ.md",
+    "early 30s.md",
+    "if if methodology but it didnt happen.md",
+    "early 20s.md",
+    "taylor-ajp-1945.md",
+    "hyperinflation dooming germany because MC wiped out.md",
+    "stephenson-jill-1997.md",
+    "bessel-richard-1990 on 3 papers.md",
+    "bessel on holtfrerich.md",
+    "bessel-richard-1990.md",
+    "bessel on james.md",
     "not sonderweg! (not following outdated ideals!) modernisation!.md",
     "handing power to Hitler.md",
-    "peukert-detlev-1987.md",
     "anti-fascism paralysed.md",
     "Marxist thought couldn't account for the dynamism of NSDAP.md",
-    "bessel-richard-1990.md",
-    "james-harold-1990.md",
     "post-war shift in the st8's political and economic role, along with attitudes, didn't set it up well.md",
-    "weimar had economic problems engrained which were what led to democratic crisis.md",
-    "taylor-ajp-1945.md",
-    "Lower savings + investment r8s than b4 the war.md",
-    "role of left against allowing conservative ideas to prosper again q.md",
-    "stephenson-jill-1997.md",
-    "the economic effects of ww1 prevented support for the republic among myths.md",
-    "the economic effects of ww1 on WR.md",
-    "bessel on james.md",
-    "link to copy paste arrows.md",
-    "(lack of political legitimacy from the start) and (the economic problems) were instrumental in Weimar's Collapse.md",
-    "the elites' insistence on destroying democracy.md",
-    "loss of legitimacy.md",
-    "economic and social crises.md",
-    "elites' lack of support and NSDAP's rolling in it.md",
-    "silly decision making based on authoritarian aims.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",

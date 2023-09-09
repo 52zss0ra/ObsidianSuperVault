@@ -1,2 +1,2 @@
-[[bessel on holfrerich]]
+[[bessel on holtfrerich]]
 [[bessel on james]]

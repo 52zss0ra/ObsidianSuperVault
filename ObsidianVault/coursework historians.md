@@ -6,13 +6,13 @@
 		(ii) evans
 
 2. [[james-harold-1990]]
-		(i) [[bessel-richard-1990]] 
+		(i) [[bessel-richard-1990 on 3 papers]] [[bessel-richard-1990]] 
+		(ii) [[weitz-eric-2007]] // weitz thinks that there was a possibility that the republic would recover from early econ crisis says guide... assuming golden years?
 
 3. [[holtfrerich-carl-ludwig-1990]]
 		(i) [[peukert-detlev-1987]]
+		(ii) [[ferguson-niall-1997]] //overlap to some extent with bessel and james says guide
 
-ferguson will do
-re-read of the debate will do
 
 
 
