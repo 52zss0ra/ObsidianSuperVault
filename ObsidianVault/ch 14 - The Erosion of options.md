@@ -21,3 +21,4 @@ Reasons outlined 4 WR's end:
 			1. that they repudiated democracy [[the elites' insistence on destroying democracy]]
 			2. that they threw in their lot with hitler when the authoritarian road led to a dead end. [[handing power to Hitler]]
 // this I think links nicely with what [[holtfrerich-carl-ludwig-1990]] has to say on room for manoeuvre 
+*(p272)*

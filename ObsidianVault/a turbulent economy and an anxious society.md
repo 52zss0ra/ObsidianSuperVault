@@ -23,4 +23,24 @@ measures:
 	- ended passive resistance in the Ruhr, which is what industrialists wanted
 	- Dawes Plan eased payments, negotiated Young Plan 
 
-# // cont with p146, getting to defending the recovery now so
+
+## golden years...
+--> all this consumerism that followed *(examples from p146-149)* Weitz attributes to people believing that "what had value could, in a flash depreciate to nothing" so thought better to spend than to save
+--> rationalisation made workers' lives more difficult. layoffs + unemployment. young people poor job prospects. white and blue collar sacked when old
+--> "the 'golden years' certainly did not apply to Weimar's agrarian sector" *(p160)*
+###### "for the Right... the Great Depression... provided a golden opportunity. Now it could again contemplate seriously the overthrow of the republic" *(p161)*
+
+## DEPRESSION + CHOICES
+	- on why bruning pursued deflation: "Virtually everyone had the experience of 1923 in mind: the dangers of inflation, in their view, far outweighed the deflationary policies pursued by the Reich." *(p163)*
+
+
+## could it have been different? *(p167-168)*
+blockages:
+	- ww1's legacy + reparations
+	- lack of 'creative and imaginative' economic leadership
+actually:
+	- policy choices resulted in ↑ influence of (major industrial and financial interests) e.g. after the 1918-19 revolutionary movement where the SPD gave in to big business. WEITZ thinks if they'd had more creative leadership they could have reigned in big business (anti-democratic). Further, in the Depression the deflationary policies (which businesses favoured) were also pursued bc leadership gives into that
+			// okay so bc they had sm influence they rolled back workers' rights etc fostering discontent with the system
+			// how would the WR be supposed to stay in power not pandering to big business tho
+
+

@@ -15,7 +15,7 @@
               {
                 "id": "0067c065ce972d27",
                 "type": "tabs",
-                "dimension": 30.664652567975832,
+                "dimension": 30.362537764350456,
                 "children": [
                   {
                     "id": "5ad71fb6ca11a62e",
@@ -42,7 +42,7 @@
                     }
                   },
                   {
-                    "id": "c03cf0eb488b5464",
+                    "id": "20e72b76ff7971d9",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -59,27 +59,63 @@
               {
                 "id": "dbe6b3df53c4aa03",
                 "type": "tabs",
-                "dimension": 69.33534743202418,
+                "dimension": 69.63746223564955,
                 "children": [
                   {
-                    "id": "3206a39e3378a5ba",
+                    "id": "495eb681636bf97f",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "james-harold-1990.md",
+                        "file": "peukert-detlev-1987.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "3b62ab50bbff4a8e",
+                    "id": "515153a0e91c3cf6",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "a turbulent economy and an anxious society.md",
+                        "file": "ch 14 - The Erosion of options.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "4f8e647ab5ab49c8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "(lack of political legitimacy from the start) and (the economic problems) were instrumental in Weimar's Collapse.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "c03cf0eb488b5464",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "holtfrerich-carl-ludwig-1990.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "bd4b71a29b326b63",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "ferguson-niall-1997.md",
                         "mode": "source",
                         "source": false
                       }
@@ -191,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locating literature.md",
+                "file": "ch 14 - The Erosion of options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locating literature.md",
+                "file": "ch 14 - The Erosion of options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +267,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locating literature.md"
+                "file": "ch 14 - The Erosion of options.md"
+              }
+            }
+          },
+          {
+            "id": "9eb586638124fd0c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -253,34 +299,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e18119de98adec19",
+  "active": "515153a0e91c3cf6",
   "lastOpenFiles": [
-    "a turbulent economy and an anxious society.md",
-    "james-harold-1990.md",
-    "coursework historians.md",
-    "weitz-eric-2007.md",
-    "locating literature.md",
-    "holtfrerich-carl-ludwig-1990.md",
-    "contrary to borchardt and james he views the inter war period as not bad economically.md",
-    "ch 14 - The Erosion of options.md",
+    "ch 1 - The Weimar Republic + the continuity of German hist.md",
+    "(lack of political legitimacy from the start) and (the economic problems) were instrumental in Weimar's Collapse.md",
+    "just a list of the econ1social problems in WR peukert illustrates.md",
     "peukert-detlev-1987.md",
-    "ferguson-niall-1997.md",
-    "policy makers' poor handling of econ crisis to blame for the failure of democ.md",
-    "early 30s.md",
-    "if if methodology but it didnt happen.md",
-    "early 20s.md",
-    "taylor-ajp-1945.md",
-    "hyperinflation dooming germany because MC wiped out.md",
-    "stephenson-jill-1997.md",
+    "coursework historians.md",
+    "holtfrerich-carl-ludwig-1990.md",
+    "the econ problems Germany struggled w were caused by outside forces.md",
+    "james-harold-1990.md",
+    "weimar had economic problems engrained which were what led to democratic crisis.md",
+    "james exaggerates the how bad the economic situation between hyperinflation and depression was.md",
     "bessel-richard-1990 on 3 papers.md",
-    "bessel on holtfrerich.md",
-    "bessel-richard-1990.md",
     "bessel on james.md",
-    "not sonderweg! (not following outdated ideals!) modernisation!.md",
-    "handing power to Hitler.md",
-    "anti-fascism paralysed.md",
-    "Marxist thought couldn't account for the dynamism of NSDAP.md",
     "post-war shift in the st8's political and economic role, along with attitudes, didn't set it up well.md",
+    "a turbulent economy and an anxious society.md",
+    "weitz-eric-2007.md",
+    "james-harold-1990 comments on holtfrerich's paper.md",
+    "bessel on holtfrerich.md",
+    "silly decision making based on authoritarian aims.md",
+    "ch 14 - The Erosion of options.md",
+    "ferguson-niall-1997.md",
+    "the elites' insistence on destroying democracy.md",
+    "bruning had room for maneuvre, not handling the economic situation correctly is what led to nazis' rise to power (bye bye Weimar Republic).md",
+    "stephenson-jill-1997.md",
+    "taylor-ajp-1945.md",
+    "'the 'Third Reich' relied solely on German force and German impulse; it owed nothing to alien forces'.md",
+    "willingness to protect old elites.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",
