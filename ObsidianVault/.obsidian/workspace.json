@@ -15,7 +15,7 @@
               {
                 "id": "0067c065ce972d27",
                 "type": "tabs",
-                "dimension": 30.362537764350456,
+                "dimension": 30.362537764350453,
                 "children": [
                   {
                     "id": "5ad71fb6ca11a62e",
@@ -42,7 +42,7 @@
                     }
                   },
                   {
-                    "id": "20e72b76ff7971d9",
+                    "id": "347bc540ac38b9ae",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -62,67 +62,42 @@
                 "dimension": 69.63746223564955,
                 "children": [
                   {
-                    "id": "495eb681636bf97f",
+                    "id": "ff80535eb9000bd3",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "peukert-detlev-1987.md",
+                        "file": "NSDAP structure and methods.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "515153a0e91c3cf6",
+                    "id": "d0453684a53d9875",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "ch 14 - The Erosion of options.md",
+                        "file": "taylor-ajp-1945.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "4f8e647ab5ab49c8",
+                    "id": "e361f872bd21f81c",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "(lack of political legitimacy from the start) and (the economic problems) were instrumental in Weimar's Collapse.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "c03cf0eb488b5464",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "holtfrerich-carl-ludwig-1990.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "bd4b71a29b326b63",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "ferguson-niall-1997.md",
+                        "file": "residue of imperial life.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "vertical"
@@ -227,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ch 14 - The Erosion of options.md",
+                "file": "NSDAP structure and methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ch 14 - The Erosion of options.md",
+                "file": "NSDAP structure and methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch 14 - The Erosion of options.md"
+                "file": "NSDAP structure and methods.md"
               }
             }
           },
@@ -286,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,34 +273,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "515153a0e91c3cf6",
+  "active": "ff80535eb9000bd3",
   "lastOpenFiles": [
+    "stephenson-jill-1997.md",
+    "lots of societal cleavages and an NSDAP that pays attention to milieu....md",
+    "the destruction of democracy (p313-314) Bruning's, Von Papen's, von schleicher's roles.md",
+    "NSDAP structure and methods.md",
+    "NatSoc thrived not solely because of old aspects but bc fused with modern qualities of 20th c.md",
+    "coursework historians.md",
+    "residue of imperial life.md",
+    "taylor-ajp-1945.md",
+    "despite changes of constitution + of parties, the spirit of politics was still that of old Germany's.md",
+    "willingness to protect old elites.md",
+    "bruning trying to appeal to nationalist sentiment just helped to strengthen the nazis.md",
+    "Nazis preyed on the 'national' card.md",
+    "in 1930 German democracy was too far gone to be saved by any change in policy.md",
+    "skilled workers being alienated by the depression, when they were the republic's greatest supporters.md",
+    "1932 election of new president revealed death of peaceful germany.md",
+    "'the 'Third Reich' relied solely on German force and German impulse; it owed nothing to alien forces'.md",
+    "hyperinflation dooming germany because MC wiped out.md",
+    "holtfrerich-carl-ludwig-1990.md",
+    "james-harold-1990.md",
+    "bosworth-richard-1998.md",
+    "weimar had economic problems engrained which were what led to democratic crisis.md",
+    "fulbrook-mary-2015.md",
+    "ch 14 - The Erosion of options.md",
     "ch 1 - The Weimar Republic + the continuity of German hist.md",
     "(lack of political legitimacy from the start) and (the economic problems) were instrumental in Weimar's Collapse.md",
     "just a list of the econ1social problems in WR peukert illustrates.md",
-    "peukert-detlev-1987.md",
-    "coursework historians.md",
-    "holtfrerich-carl-ludwig-1990.md",
-    "the econ problems Germany struggled w were caused by outside forces.md",
-    "james-harold-1990.md",
-    "weimar had economic problems engrained which were what led to democratic crisis.md",
-    "james exaggerates the how bad the economic situation between hyperinflation and depression was.md",
-    "bessel-richard-1990 on 3 papers.md",
-    "bessel on james.md",
-    "post-war shift in the st8's political and economic role, along with attitudes, didn't set it up well.md",
-    "a turbulent economy and an anxious society.md",
-    "weitz-eric-2007.md",
-    "james-harold-1990 comments on holtfrerich's paper.md",
-    "bessel on holtfrerich.md",
-    "silly decision making based on authoritarian aims.md",
-    "ch 14 - The Erosion of options.md",
-    "ferguson-niall-1997.md",
-    "the elites' insistence on destroying democracy.md",
-    "bruning had room for maneuvre, not handling the economic situation correctly is what led to nazis' rise to power (bye bye Weimar Republic).md",
-    "stephenson-jill-1997.md",
-    "taylor-ajp-1945.md",
-    "'the 'Third Reich' relied solely on German force and German impulse; it owed nothing to alien forces'.md",
-    "willingness to protect old elites.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",
