@@ -4,76 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a2175511924924fc",
-        "type": "split",
+        "id": "dbe6b3df53c4aa03",
+        "type": "tabs",
         "children": [
           {
-            "id": "0067c065ce972d27",
-            "type": "tabs",
-            "dimension": 35.49848942598187,
-            "children": [
-              {
-                "id": "5ad71fb6ca11a62e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "goeschel-christian-2018.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "037cb1c1b0aeab77",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "bosworth-richard-1998.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "29a48029a0edb5b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "always remember to push to git.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "dbe6b3df53c4aa03",
-            "type": "tabs",
-            "dimension": 64.50151057401813,
-            "children": [
-              {
-                "id": "2ffb4968a0257c0f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "reynolds-matthew-2016.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "29a48029a0edb5b9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "always remember to push to git.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "375599447997c5da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vocab.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "always remember to push to git.md",
+                "file": "vocab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "always remember to push to git.md",
+                "file": "vocab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "always remember to push to git.md"
+                "file": "vocab.md"
               }
             }
           },
@@ -227,10 +186,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29a48029a0edb5b9",
+  "active": "375599447997c5da",
   "lastOpenFiles": [
+    "russian.md",
+    "setphrase.md",
+    "hard russian vocab that always slips by mind.md",
+    "vocab.md",
+    "french.md",
+    "tracking by instance.md",
+    "always remember to push to git.md",
     "note taking in obsidian.md",
+    "navigating notion.md",
+    "finish your setup.md",
+    "formatting.md",
+    "use of tags.md",
+    "bibliographic note taking in obsidian.md",
     "reynolds-matthew-2016.md",
+    "goeschel-christian-2018.md",
+    "bosworth-richard-1998.md",
     "bruning had room for maneuvre, not handling the economic situation correctly is what led to nazis' rise to power (bye bye Weimar Republic).md",
     "james-harold-1990.md",
     "weimar had economic problems engrained which were what led to democratic crisis.md",
@@ -241,20 +214,6 @@
     "translation and censorship.md",
     "censorship of translated works in relation to societal positions.md",
     "musso's italy censorship of translations.md",
-    "fascist spain censorship of translations.md",
-    "nazi germany censorship of translations.md",
-    "Qur'an in Arabic vs other langs.md",
-    "mutability of religious teaching (Bible) message according to the target language's culture.md",
-    "beliefs and doctrine under threat by translations.md",
-    "catholic mass in England being in Latin and low understanding and devotion as a result compared to when CofE started up.md",
-    "misunderstandings or errors in translation highlighting power dynamics.md",
-    "the visual in translation.md",
-    "cultural contexts mean words can't be translated exactly.md",
-    "Translating 'translation'.md",
-    "translation of gender and sexualities across societies.md",
-    "challenges with translating poetry.md",
-    "purpose of translation of theatrical works.md",
-    "russian terms in Chekhov specific to the historical setting.md",
     "pursuit of knowledge w",
     "Pasted image 20230513172800.png",
     "Pasted image 20230513172756.png",

@@ -27,3 +27,6 @@ American Jeffrey T Schnapp poses that the reason Fascism was so successful in be
 anti-anti fascist orthodoxy of 90s sought to blot out the anti-fascist rhetoric of: never again, that was too violent + horrible. because they kind of want to adopt that control. 
 
 to get a wider understanding of how diff groups experienced fascism, turn away from De Felice's culturalist approach
+
+
+//COMMENT IN RETROSPECT: each chapter tackles some other theme + he just outlines what a bunch of ppl thought on that issue, sometimes evaluating. basic stuff really no bother
