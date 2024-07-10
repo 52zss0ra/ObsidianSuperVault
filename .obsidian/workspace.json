@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e515429d70adf6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianVault/f by instance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85f84d594a506fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianVault/set phrase logging that's just stuff not intuitive to how i'd say in spanish.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a97d946cb34a2e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianVault/hard russian vocab that always slips by mind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe1bd675af199806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianVault/setphrase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9dd83c35bb88294b",
@@ -85,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianVault/hard russian vocab that always slips by mind.md",
+                "file": "ObsidianVault/setphrase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianVault/hard russian vocab that always slips by mind.md",
+                "file": "ObsidianVault/setphrase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianVault/hard russian vocab that always slips by mind.md"
+                "file": "ObsidianVault/setphrase.md"
               }
             }
           }
@@ -146,8 +196,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "808749931ac29247",
+  "active": "fe1bd675af199806",
   "lastOpenFiles": [
-    "ObsidianVault/russian.md"
+    "ObsidianVault/hard russian vocab that always slips by mind.md",
+    "ObsidianVault/russian.md",
+    "screenshots come back to at some point.md",
+    "ObsidianVault/setphrase.md",
+    "Pasted image 20240710182653.png",
+    "Pasted image 20240710180426.png",
+    "Pasted image 20240710180348.png",
+    "Pasted image 20240710180321.png",
+    "Pasted image 20240710180225.png",
+    "ObsidianVault/tracking by instance.md",
+    "Pasted image 20240710175401.png",
+    "Pasted image 20240710175347.png",
+    "Pasted image 20240710175320.png",
+    "Pasted image 20240710175056.png",
+    "Pasted image 20240710174755.png",
+    "ObsidianVault/set phrase logging that's just stuff not intuitive to how i'd say in spanish.md",
+    "ObsidianVault/f by instance.md",
+    "ObsidianVault/french.md"
   ]
 }
