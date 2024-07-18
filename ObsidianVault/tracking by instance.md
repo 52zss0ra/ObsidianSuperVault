@@ -1,4 +1,11 @@
 **воспоминание** графа Витте - memoir of count vitte
+**набор инструментов** - collection, group, set of instruments
+**ударные** - PERCUSSION root
+**духовые** - brass
+**ожидать** impf only - expect/anticipate
+**кубок мира** - world cup
+**зре́лищный** - spectacular, impressive
+
 
 ![[Pasted image 20240710174755.png]]
 

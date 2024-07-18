@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "808749931ac29247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ObsidianVault/hard russian vocab that always slips by mind.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e515429d70adf6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ObsidianVault/f by instance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85f84d594a506fde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ObsidianVault/set phrase logging that's just stuff not intuitive to how i'd say in spanish.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3a97d946cb34a2e2",
             "type": "leaf",
             "state": {
@@ -66,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f97a3cce75974c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianVault/tracking by instance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,23 +174,24 @@
   },
   "active": "fe1bd675af199806",
   "lastOpenFiles": [
-    "ObsidianVault/hard russian vocab that always slips by mind.md",
-    "ObsidianVault/russian.md",
-    "screenshots come back to at some point.md",
+    "ObsidianVault/tracking by instance.md",
     "ObsidianVault/setphrase.md",
+    "ObsidianVault/russian.md",
+    "if i decide to work on it further.md",
+    "ObsidianVault/french.md",
+    "ObsidianVault/hard russian vocab that always slips by mind.md",
+    "ObsidianVault/f by instance.md",
+    "screenshots come back to at some point.md",
     "Pasted image 20240710182653.png",
     "Pasted image 20240710180426.png",
     "Pasted image 20240710180348.png",
     "Pasted image 20240710180321.png",
     "Pasted image 20240710180225.png",
-    "ObsidianVault/tracking by instance.md",
     "Pasted image 20240710175401.png",
     "Pasted image 20240710175347.png",
     "Pasted image 20240710175320.png",
     "Pasted image 20240710175056.png",
     "Pasted image 20240710174755.png",
-    "ObsidianVault/set phrase logging that's just stuff not intuitive to how i'd say in spanish.md",
-    "ObsidianVault/f by instance.md",
-    "ObsidianVault/french.md"
+    "ObsidianVault/set phrase logging that's just stuff not intuitive to how i'd say in spanish.md"
   ]
 }
