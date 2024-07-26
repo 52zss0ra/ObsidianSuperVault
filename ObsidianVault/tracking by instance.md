@@ -16,4 +16,5 @@ RUSSIAN WINTERS
 	![[Pasted image 20240710175320.png]]
 	![[Pasted image 20240710175347.png]]
 	![[Pasted image 20240710175401.png]]
-	
+
+хозяйка - housewife
