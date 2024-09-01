@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianVault/tracking by instance.md",
+                "file": "ObsidianVault/setphrase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianVault/tracking by instance.md",
+                "file": "ObsidianVault/setphrase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianVault/tracking by instance.md"
+                "file": "ObsidianVault/setphrase.md"
               }
             }
           }
@@ -172,11 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f97a3cce75974c6",
+  "active": "fe1bd675af199806",
   "lastOpenFiles": [
+    "ObsidianVault/tracking by instance.md",
     "ObsidianVault/setphrase.md",
     "ObsidianVault/hard russian vocab that always slips by mind.md",
-    "ObsidianVault/tracking by instance.md",
     "ObsidianVault/russian.md",
     "if i decide to work on it further.md",
     "ObsidianVault/french.md",
