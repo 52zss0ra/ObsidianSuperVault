@@ -49,4 +49,11 @@ ilona inputs from convos:
 	коврик для йоги - yoga mat
 	ковёр - carpet
 	орнАмент
-	
+	обучение - process of absorbing knowledge vs образование educational system overall
+
+self-compassion presentation project:
+	Посттравматическое стрессовое расстройство - PTSD
+	расстояние - distance
+	утверждение - assertion
+	synonym высказывание 
+	неутолимая жажда успеха - unquenchable thirst for success

@@ -8,6 +8,10 @@
 уныние - gloom/melancholy
 любопытство - curiosity, interest
 любознательность - curiosity, inquisitiveness
+перерыв - break
+размеры - dimensions
+пло́тность населе́ния - density
+ожидать, представлять
 
 ![[Pasted image 20240710173436.png]]
 

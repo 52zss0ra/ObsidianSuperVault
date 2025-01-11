@@ -16,7 +16,9 @@
                 "file": "ObsidianVault/hard russian vocab that always slips by mind.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "hard russian vocab that always slips by mind"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "ObsidianVault/setphrase.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "setphrase"
             }
           },
           {
@@ -40,11 +44,13 @@
                 "file": "ObsidianVault/tracking by instance.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "tracking by instance"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianVault/setphrase.md",
+                "file": "ObsidianVault/tracking by instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tracking by instance"
             }
           },
           {
@@ -128,10 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianVault/setphrase.md",
+                "file": "ObsidianVault/tracking by instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tracking by instance"
             }
           },
           {
@@ -142,7 +158,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -151,8 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianVault/setphrase.md"
-              }
+                "file": "ObsidianVault/tracking by instance.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tracking by instance"
             }
           }
         ]
@@ -172,16 +192,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe1bd675af199806",
+  "active": "5f97a3cce75974c6",
   "lastOpenFiles": [
-    "ObsidianVault/tracking by instance.md",
+    "screenshots come back to at some point.md",
     "ObsidianVault/setphrase.md",
     "ObsidianVault/hard russian vocab that always slips by mind.md",
+    "ObsidianVault/tracking by instance.md",
     "ObsidianVault/russian.md",
     "if i decide to work on it further.md",
     "ObsidianVault/french.md",
     "ObsidianVault/f by instance.md",
-    "screenshots come back to at some point.md",
     "Pasted image 20240710182653.png",
     "Pasted image 20240710180426.png",
     "Pasted image 20240710180348.png",
