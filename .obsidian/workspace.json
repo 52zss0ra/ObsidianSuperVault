@@ -16,8 +16,35 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "45d2861dce9c6892",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Language interim files/Pasted image 20240710175347.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240710175347"
+            }
+          },
+          {
+            "id": "5663c20cdab7b2d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bristol + Caribbean/Themes + Reading List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Themes + Reading List"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,22 +187,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "606b78897eb3b86d",
+  "active": "5663c20cdab7b2d6",
   "lastOpenFiles": [
-    "if i decide to work on it further.md",
+    "ObsidianVault/formatting.md",
+    "ObsidianVault/note taking in obsidian.md",
+    "ObsidianVault/usage of square brackets.md",
+    "Bristol + Caribbean/Themes + Reading List.md",
+    "Language interim files/Pasted image 20240710175347.png",
+    "Bristol + Caribbean",
+    "Bristol + Caribbean.md",
+    "Language interim files/Pasted image 20240710173556.png",
+    "Language interim files",
+    "Language interim files/if i decide to work on it further.md",
     "ObsidianVault/setphrase.md",
     "ObsidianVault/hard russian vocab that always slips by mind.md",
-    "screenshots come back to at some point.md",
-    "Pasted image 20240710182653.png",
-    "Pasted image 20240710180426.png",
-    "Pasted image 20240710180348.png",
-    "Pasted image 20240710180321.png",
-    "Pasted image 20240710180225.png",
-    "Pasted image 20240710175401.png",
-    "Pasted image 20240710175347.png",
-    "Pasted image 20240710175320.png",
-    "Pasted image 20240710175056.png",
-    "Pasted image 20240710174755.png",
+    "Language interim files/screenshots come back to at some point.md",
+    "Language interim files/Pasted image 20240710182653.png",
+    "Language interim files/Pasted image 20240710180426.png",
+    "Language interim files/Pasted image 20240710180348.png",
+    "Language interim files/Pasted image 20240710180321.png",
+    "Language interim files/Pasted image 20240710180225.png",
+    "Language interim files/Pasted image 20240710175401.png",
+    "Language interim files/Pasted image 20240710175320.png",
+    "Language interim files/Pasted image 20240710175056.png",
     "ObsidianVault/tracking by instance.md",
     "ObsidianVault/russian.md",
     "ObsidianVault/french.md",
